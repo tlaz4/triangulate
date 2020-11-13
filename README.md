@@ -1,4 +1,4 @@
-My solution utilizes a a hillclimbing algorith, an attempt to find the optimal solution to the problem described. Unfortunately I was unable to find a solution with this approach.
+My solution utilizes a a hillclimbing algorithm, an attempt to find the optimal solution to the problem described. Unfortunately I was unable to find a solution with this approach.
 I have first defined the graph into a node class, and a dictionary to map colours and edges to nodes, along with
 a list of all triangles and the nodes that comprise them.
 The main hillclimbing loop then randomly colours the center nodes, and iteratively makes random changes to nodes.
